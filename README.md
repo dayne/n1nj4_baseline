@@ -1,4 +1,7 @@
 # n1nj4_baseline
 
-TODO: Enter the cookbook description here.
+baseline cookbook.
 
+What it does:
+
+- `chef-client` installed and enabled as a services

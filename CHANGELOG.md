@@ -6,6 +6,5 @@ This file is used to list changes made in each version of the n1nj4_baseline coo
 
 Initial release.
 
-- change 0
-- change 1
+- chef-client installed and running as a service
 

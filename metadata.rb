@@ -18,3 +18,5 @@ chef_version '>= 13.0'
 # a Supermarket.
 #
 # source_url 'https://github.com/<insert_org_here>/n1nj4_baseline'
+
+depends 'chef-client'
